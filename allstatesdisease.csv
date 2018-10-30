@@ -1,0 +1,256 @@
+﻿Cause,State,Deaths
+Cancer,Alabama,149
+CLRD,Alabama,38
+HeartProblem,Alabama,189
+Stroke,Alabama,42
+Injuries,Alabama,35
+Cancer,Alaska,12
+CLRD,Alaska,2
+HeartProblem,Alaska,9
+Stroke,Alaska,2
+Injuries,Alaska,5
+Cancer,Arizona,149
+CLRD,Arizona,41
+HeartProblem,Arizona,158
+Stroke,Arizona,34
+Injuries,Arizona,43
+Cancer,Arkansas,95
+CLRD,Arkansas,24
+HeartProblem,Arkansas,114
+Stroke,Arkansas,28
+Injuries,Arkansas,20
+Alzheimer's,California,123
+Cancer,California,825
+CLRD,California,195
+HeartProblem,California,960
+Stroke,California,233
+Cancer,Colorado,98
+CLRD,Colorado,30
+HeartProblem,Colorado,93
+Stroke,Colorado,25
+Injuries,Colorado,29
+Cancer,Connecticut,104
+CLRD,Connecticut,21
+HeartProblem,Connecticut,117
+Stroke,Connecticut,23
+Injuries,Connecticut,18
+Cancer,Delaware,27
+CLRD,Delaware,5
+HeartProblem,Delaware,28
+Stroke,Delaware,5
+Injuries,Delaware,4
+Cancer,District of Columbia,17
+Diabetes,District of Columbia,2
+HeartProblem,District of Columbia,22
+Stroke,District of Columbia,3
+Injuries,District of Columbia,2
+Cancer,Florida,606
+CLRD,Florida,144
+HeartProblem,Florida,680
+Stroke,Florida,139
+Injuries,Florida,122
+Cancer,Georgia,220
+CLRD,Georgia,52
+HeartProblem,Georgia,249
+Stroke,Georgia,59
+Injuries,Georgia,54
+Cancer,Hawaii,32
+CLRD,Hawaii,4
+HeartProblem,Hawaii,35
+Stroke,Hawaii,10
+Injuries,Hawaii,6
+Cancer,Idaho,35
+CLRD,Idaho,10
+HeartProblem,Idaho,37
+Stroke,Idaho,10
+Injuries,Idaho,9
+Cancer,Illinois,366
+CLRD,Illinois,76
+HeartProblem,Illinois,416
+Stroke,Illinois,93
+Injuries,Illinois,62
+Cancer,Indiana,194
+CLRD,Indiana,52
+HeartProblem,Indiana,217
+Stroke,Indiana,50
+Injuries,Indiana,36
+Cancer,Iowa,96
+CLRD,Iowa,25
+HeartProblem,Iowa,112
+Stroke,Iowa,27
+Injuries,Iowa,18
+Cancer,Kansas,80
+CLRD,Kansas,22
+HeartProblem,Kansas,89
+Stroke,Kansas,23
+Injuries,Kansas,18
+Cancer,Kentucky,143
+CLRD,Kentucky,39
+HeartProblem,Kentucky,159
+Stroke,Kentucky,34
+Injuries,Kentucky,34
+Cancer,Louisiana,139
+CLRD,Louisiana,27
+HeartProblem,Louisiana,160
+Stroke,Louisiana,34
+Injuries,Louisiana,33
+Cancer,Maine,47
+CLRD,Maine,11
+HeartProblem,Maine,44
+Stroke,Maine,10
+Injuries,Maine,8
+Cancer,Maryland,154
+CLRD,Maryland,29
+HeartProblem,Maryland,172
+Stroke,Maryland,37
+Injuries,Maryland,21
+Cancer,Massachusetts,199
+CLRD,Massachusetts,39
+HeartProblem,Massachusetts,200
+Stroke,Massachusetts,44
+Injuries,Massachusetts,27
+Cancer,Michigan,301
+CLRD,Michigan,70
+HeartProblem,Michigan,374
+Stroke,Michigan,75
+Injuries,Michigan,53
+Cancer,Minnesota,138
+CLRD,Minnesota,29
+HeartProblem,Minnesota,118
+Stroke,Minnesota,35
+Injuries,Minnesota,30
+Cancer,Mississippi,92
+CLRD,Mississippi,22
+HeartProblem,Mississippi,123
+Stroke,Mississippi,24
+Injuries,Mississippi,25
+Cancer,Missouri,187
+CLRD,Missouri,48
+HeartProblem,Missouri,228
+Stroke,Missouri,50
+Injuries,Missouri,42
+Cancer,Montana,28
+CLRD,Montana,8
+HeartProblem,Montana,28
+Stroke,Montana,7
+Injuries,Montana,8
+Cancer,Nebraska,50
+CLRD,Nebraska,14
+HeartProblem,Nebraska,55
+Stroke,Nebraska,14
+Injuries,Nebraska,10
+Cancer,Nevada,63
+CLRD,Nevada,17
+HeartProblem,Nevada,70
+Stroke,Nevada,13
+Injuries,Nevada,15
+Cancer,New Hampshire,38
+CLRD,New Hampshire,9
+HeartProblem,New Hampshire,38
+Stroke,New Hampshire,8
+Injuries,New Hampshire,6
+Cancer,New Jersey,258
+CLRD,New Jersey,46
+HeartProblem,New Jersey,305
+Stroke,New Jersey,55
+Injuries,New Jersey,37
+Cancer,New Mexico,47
+CLRD,New Mexico,13
+HeartProblem,New Mexico,50
+Stroke,New Mexico,11
+Injuries,New Mexico,18
+Cancer,New York,540
+CLRD,New York,102
+HeartProblem,New York,763
+Stroke,New York,101
+Injuries,New York,75
+Cancer,North Carolina,256
+CLRD,North Carolina,62
+HeartProblem,North Carolina,268
+Stroke,North Carolina,72
+Injuries,North Carolina,59
+Alzheimer's,North Dakota,4
+Cancer,North Dakota,19
+CLRD,North Dakota,4
+HeartProblem,North Dakota,22
+Stroke,North Dakota,6
+Cancer,Ohio,375
+CLRD,Ohio,96
+HeartProblem,Ohio,431
+Stroke,Ohio,94
+Injuries,Ohio,67
+Cancer,Oklahoma,114
+CLRD,Oklahoma,34
+HeartProblem,Oklahoma,152
+Stroke,Oklahoma,32
+Injuries,Oklahoma,30
+Cancer,Oregon,110
+CLRD,Oregon,27
+HeartProblem,Oregon,100
+Stroke,Oregon,32
+Injuries,Oregon,22
+Cancer,Pennsylvania,440
+CLRD,Pennsylvania,93
+HeartProblem,Pennsylvania,529
+Stroke,Pennsylvania,113
+Injuries,Pennsylvania,80
+Cancer,Rhode Island,34
+CLRD,Rhode Island,7
+HeartProblem,Rhode Island,41
+Stroke,Rhode Island,7
+Injuries,Rhode Island,5
+Cancer,South Carolina,132
+CLRD,South Carolina,31
+HeartProblem,South Carolina,140
+Stroke,South Carolina,38
+Injuries,South Carolina,32
+Cancer,South Dakota,23
+CLRD,South Dakota,6
+HeartProblem,South Dakota,26
+Stroke,South Dakota,6
+Injuries,South Dakota,5
+Cancer,Tennessee,194
+CLRD,Tennessee,48
+HeartProblem,Tennessee,226
+Stroke,Tennessee,53
+Injuries,Tennessee,47
+Cancer,Texas,527
+CLRD,Texas,123
+HeartProblem,Texas,604
+Stroke,Texas,146
+Injuries,Texas,130
+Cancer,Utah,38
+CLRD,Utah,9
+HeartProblem,Utah,44
+Stroke,Utah,12
+Injuries,Utah,12
+Cancer,Vermont,19
+CLRD,Vermont,4
+HeartProblem,Vermont,19
+Stroke,Vermont,4
+Injuries,Vermont,4
+Cancer,Virginia,207
+CLRD,Virginia,43
+HeartProblem,Virginia,212
+Stroke,Virginia,544
+Injuries,Virginia,39
+Alzheimer's,Washington,38
+Cancer,Washington,170
+CLRD,Washington,41
+HeartProblem,Washington,163
+Stroke,Washington,45
+Cancer,West Virginia,70
+CLRD,West Virginia,20
+HeartProblem,West Virginia,83
+Stroke,West Virginia,17
+Injuries,West Virginia,16
+Cancer,Wisconsin,164
+CLRD,Wisconsin,36
+HeartProblem,Wisconsin,179
+Stroke,Wisconsin,44
+Injuries,Wisconsin,36
+Cancer,Wyoming,13
+CLRD,Wyoming,4
+HeartProblem,Wyoming,14
+Stroke,Wyoming,3
+Injuries,Wyoming,4
